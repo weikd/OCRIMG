@@ -1,0 +1,6 @@
+{
+  "name": "万能图片识别助手",
+  "description": "一个功能强大的图片识别工具，支持表格提取、文字识别、表格编辑与转置，支持导出 Excel 和 Word 格式。提供内置 AI 与自定义千问 API 双核驱动。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
